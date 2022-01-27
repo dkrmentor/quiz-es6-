@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(88, 0, 189);
+    color: white;
+
+    
+}
+.question{
+    background-color: white;
+    color: black;
+    padding: 1.5em;
+    border-radius: 1em;
+    margin: 1em;
+}
+.question p , h4 , sup{
+   padding: 0.5em;
+   background-color: gray;
+    
+}
+.question input{
+    margin: 0.5em;
+    background-color: gray;
+
+}
+
+.result{
+    margin: 1em;
+}
+.result button{
+    background-color: red;
+
+}
+
